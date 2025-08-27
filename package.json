@@ -1,0 +1,18 @@
+{
+  "name": "tabnews",
+  "version": "1.0.0",
+  "description": "Cópia do Tabnews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jao": "echo \"faz o L\" && exit 1"
+
+  },
+  "author": "Erick Moura",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
